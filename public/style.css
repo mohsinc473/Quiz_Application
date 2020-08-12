@@ -1,0 +1,16 @@
+.display-4 {
+  font-size: xx-large !important;
+  font-weight: 400 !important;
+}
+@media only screen and (max-width: 350px) {
+  .container {
+    width: 100% !important;
+  }
+  .startBtn {
+    width: 100% !important;
+  }
+  .questions,
+  .Options {
+    width: 100% !important;
+  }
+}
